@@ -1,0 +1,114 @@
+.shiza__test {
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+  }
+
+  .shiza__text {
+    text-align: center;
+    padding-top: 20px;
+  }
+
+  .start__test {
+    display: flex;
+    flex-direction: column;
+    row-gap: 200px;
+  }
+
+  .start {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+    padding-bottom: 100px;
+  }
+
+ 
+  .yes__btn {
+    width: 35%;
+    height: 40px;
+    background: #8647d8;
+    border: #fff solid 1px;
+    text-align: center;
+    padding-top: 7px;
+  }
+  .no__btn {
+    width: 35%;
+    height: 40px;
+    background: #8647d8;
+    border: #fff solid 1px;
+    text-align: center;
+    padding-top: 7px;
+  }
+
+
+  .yes__btn:hover {
+    text-decoration: underline;
+  }
+  .no__btn:hover {
+    text-decoration: underline;
+  }
+
+  .yes__btn:active {
+    background: #B76B02;
+  }
+  .no__btn:active {
+    background: #B76B02;
+  }
+
+  a{
+    color: #fff;
+  }
+
+  .counter {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+  }
+
+  .img_q {
+    width: 500px;
+    height: 350px;
+  }
+
+
+  span {
+    color: #54B002;
+  }
+
+  .counter__text{
+    display: flex;
+  }
+
+  .result__text {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+  }
+  .result__form {
+    padding-top: 20px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+  }
+  .yes__num{
+    padding: 5px;
+    background: #53b00200;
+    border: 1px snow solid;
+    outline: none;
+    border-radius: 5px;
+    color: snow;
+  }
+  .answer__title {
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 35px;
+    color: whitesmoke;
+  }
+
+
+
+  .answer__text {
+    text-align: center;
+    padding-bottom: 30px;
+  }
+  
